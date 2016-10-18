@@ -1,4 +1,10 @@
-# Yii2 BlockUI
+# Yii2 Material Ripple
+***
+[![Latest Stable Version](https://poser.pugx.org/ayrozjlc/yii2-material-ripple/v/stable)](https://packagist.org/packages/ayrozjlc/yii2-material-ripple)
+[![Total Downloads](https://poser.pugx.org/ayrozjlc/yii2-material-ripple/downloads)](https://packagist.org/packages/ayrozjlc/yii2-material-ripple)
+[![Latest Unstable Version](https://poser.pugx.org/ayrozjlc/yii2-material-ripple/v/unstable)](https://packagist.org/packages/ayrozjlc/yii2-material-ripple)
+[![License](https://poser.pugx.org/ayrozjlc/yii2-material-ripple/license)](https://packagist.org/packages/ayrozjlc/yii2-material-ripple)
+***
 AssetBundle for material-ripple
 
 ## Installation
