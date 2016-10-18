@@ -1,0 +1,39 @@
+{
+  "name": "ayrozjlc/yii2-material-ripple",
+  "description": "AssetBundle for material-ripple",
+  "keywords": [
+    "yii2",
+    "ripple",
+    "material",
+    "material-ripple",
+    "yii2-material-ripple"
+  ],
+  "type": "yii2-extension",
+  "license": "BSD-3-Clause",
+  "support": {
+    "source": "https://github.com/ayrozjlc/yii2-material-ripple"
+  },
+  "authors": [
+    {
+      "name": "Jose Lopez Chavez(ayrozjlc)",
+      "email": "jlopez@tecnocen.com",
+      "homepage": "https://github.com/tecnocen-com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ayrozjlc\\ripple\\": ""
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "npm-asset/material-ripple": "dev-master",
+    "yiisoft/yii2": "2.0.*"
+  },
+  "extra": {
+    "asset-installer-paths": {
+      "npm-asset-library": "vendor/npm"
+    }
+  }
+}
