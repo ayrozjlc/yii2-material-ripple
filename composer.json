@@ -28,7 +28,7 @@
   },
   "minimum-stability": "dev",
   "require": {
-    "npm-asset/material-ripple": "0.2.5",
+    "npm-asset/material-ripple": "*",
     "yiisoft/yii2": "2.0.*"
   },
   "extra": {
