@@ -26,14 +26,8 @@
       "ayrozjlc\\ripple\\": ""
     }
   },
-  "minimum-stability": "dev",
   "require": {
     "npm-asset/material-ripple": "0.2.5",
     "yiisoft/yii2": "2.0.*"
-  },
-  "extra": {
-    "asset-installer-paths": {
-      "npm-asset-library": "vendor/npm"
-    }
   }
 }
